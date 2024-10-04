@@ -16,3 +16,7 @@ Key Goals:
 
 * Identify and visualize key metrics, variances, and significant relationships between attributes.
 * Create a dashboard to deliver insights and aid in decision-making.
+
+## Dataset
+
+The dataset contains information about budgeted and actual sales for various products in different regions. It includes data on product name, region, month, budgeted sales, and actual sales. The dataset was obtained from an internal sales database and downloaded from online source.
