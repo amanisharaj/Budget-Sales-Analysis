@@ -23,7 +23,7 @@ The dataset contains information about budgeted and actual sales for various pro
 
 ## Visualizations
 
-Missing Data Visualization: A bar plot shows the percentage of missing data in each column of the merged dataset, highlighting which columns need to be cleaned or dropped.
+** Missing Data Visualization ** : A bar plot shows the percentage of missing data in each column of the merged dataset, highlighting which columns need to be cleaned or dropped.
 
 Pie Charts:
 
